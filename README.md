@@ -7,5 +7,6 @@ Dockerize Your Python Chatbot
 - Running your chatbot as a Docker container
 
 📝 **Resources & Links:**
-Chatterbot Documentation: https://chatterbot.readthedocs.io/en/stable/
-Docker Installation Guide: https://docs.docker.com/engine/install/
+- Chatterbot Documentation: https://chatterbot.readthedocs.io/en/stable
+
+- Docker Installation Guide: https://docs.docker.com/engine/install
